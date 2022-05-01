@@ -1,1 +1,1 @@
-pip install pygame+https://github.com/matija-stankovic/Block_Destroyer.git
+pip install pygame
